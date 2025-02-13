@@ -1,0 +1,5 @@
+/env
+/custom_ner_model
+/test.pdf
+/__pycache__
+models/*
